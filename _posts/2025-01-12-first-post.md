@@ -1,8 +1,11 @@
 ---
-layout: post
 title: "My First Blog Post"
 date: 2025-01-10 12:00:00
-categories: [test]
+categories:
+  - blog
+tags:
+  - Jekyll
+  - test
 ---
 
 Welcome to my first post! Here I want to test posting an image. It is an image myself standing on a pier during a warm afternoon but some dark clouds nearby show signs of incoming heavy rain.
