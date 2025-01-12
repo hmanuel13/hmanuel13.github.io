@@ -73,11 +73,11 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/sethantes"
 
-sidebar:
-   - title: "ArcanePalette"
-    image: "/assets/images/seth1.jpeg"
-    image_alt: "The ArcaneCoder palette"
-    text: "test"
+#sidebar:
+#   - title: "ArcanePalette"
+#    image: "/assets/images/seth1.jpeg"
+#    image_alt: "The ArcaneCoder palette"
+#    text: "test"
 
 footer:
   links:
