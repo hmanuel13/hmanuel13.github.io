@@ -65,19 +65,19 @@ author:
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/sethantes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/hmanuel13"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/sethantes"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sethantes"
+      url: "https://x.com/sethantes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hmanuel13"
