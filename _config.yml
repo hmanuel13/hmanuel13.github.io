@@ -59,7 +59,6 @@ author:
   name   : "Hilary Manuel"
   avatar : "/assets/images/seth1.jpeg"
   bio    : "Every waking moment, such design and technology distract my mind. And then, there's the arcane dimension to constantly traverse. Demons beware!"
-  featured_image: "/assets/images/seth1.jpg"
   links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
@@ -73,6 +72,11 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/sethantes"
+
+sidebar:
+  - title: ArcanePalette
+    image: "/assets/images/seth1.jpeg"
+    image_alt: "The ArcaneCoder palette"
 
 footer:
   links:
