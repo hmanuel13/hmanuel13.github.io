@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Hilary Manuel"
+  avatar : "/assets/images/seth1.jped"
+  bio    : "Every waking moment, such design and technology distract my mind. And then, there's the arcane dimension to constantly traverse. Demons beware!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -77,13 +77,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/sethantes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/hmanuel13"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/sethantes"
 
 defaults:
   # _posts
