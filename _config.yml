@@ -74,9 +74,10 @@ author:
       url: "https://instagram.com/sethantes"
 
 sidebar:
-  - title: ArcanePalette
+   - title: ArcanePalette
     image: "/assets/images/seth1.jpeg"
     image_alt: "The ArcaneCoder palette"
+    text: "test"
 
 footer:
   links:
